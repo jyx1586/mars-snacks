@@ -8,6 +8,12 @@ doritoes
 Goldfish
 Bananas
 Green grapes
+<<<<<<< HEAD
 Slim Jim
 Lays Honey Barbecue
 Mint (not mint chocolate chip) ice cream
+=======
+Fireball
+Life savers
+Trollis 
+>>>>>>> brian-rodriguez
